@@ -72,7 +72,6 @@
   <img src="icons/firebase.svg" height="45" alt="Firebase" />
 </div>
 
----
 
 ###
 
