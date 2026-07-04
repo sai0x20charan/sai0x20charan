@@ -54,17 +54,22 @@
 
 <div align="center">
   <img src="icons/kotlin.svg" height="45" alt="Kotlin" />
+    <img width="20" />
   <img src="icons/java.svg" height="45" alt="Java" />
+      <img width="20" />
   <img src="icons/dart.svg" height="45" alt="Dart" />
+      <img width="20" />
   <img src="icons/swift.svg" height="45" alt="Swift" />
+      <img width="20" />
   <img src="icons/cplusplus.svg" height="45" alt="C++" />
+      <img width="20" />
   <img src="icons/compose.svg" height="45" alt="Jetpack Compose" />
+      <img width="20" />
   <img src="icons/flutter.svg" height="45" alt="Flutter" />
+      <img width="20" />
   <img src="icons/supabase.svg" height="45" alt="Supabase" />
+      <img width="20" />
   <img src="icons/firebase.svg" height="45" alt="Firebase" />
-  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=ktor" height="45" alt="Ktor" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="45" alt="Android Studio" />
 </div>
 
 ---
