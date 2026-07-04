@@ -50,33 +50,24 @@
 
 <p align="left"> I am a software developer passionate about Kotlin, Jetpack Compose and cross-platform development.</p>
 
-###
-
-<h2 align="left">🛠 Language and tools</h2>
-
-###
+## ⚡ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin" height="45" alt="kotlin logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=dart" height="45" alt="dart logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="45" alt="flutter logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="45" alt="supabase logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="firebase logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=ktor" height="45" alt="ktor logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="45" alt="androidstudio logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo"  />
+  <img src="icons/kotlin.svg" height="45" alt="Kotlin" />
+  <img src="icons/java.svg" height="45" alt="Java" />
+  <img src="icons/dart.svg" height="45" alt="Dart" />
+  <img src="icons/swift.svg" height="45" alt="Swift" />
+  <img src="icons/cplusplus.svg" height="45" alt="C++" />
+  <img src="icons/compose.svg" height="45" alt="Jetpack Compose" />
+  <img src="icons/flutter.svg" height="45" alt="Flutter" />
+  <img src="icons/supabase.svg" height="45" alt="Supabase" />
+  <img src="icons/firebase.svg" height="45" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=ktor" height="45" alt="Ktor" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="45" alt="Android Studio" />
 </div>
+
+---
 
 ###
 
