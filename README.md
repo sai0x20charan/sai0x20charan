@@ -48,7 +48,7 @@
 
 <h2 align="left">About Me</h2>
 
-<p align="left"> I am a software developer passionate about Kotlin, Jetpack Compose, cross-platform development, and exploring emerging technologies.</p>
+<p align="left"> I am a software developer passionate about Kotlin, Jetpack Compose and cross-platform development.</p>
 
 ###
 
@@ -80,11 +80,11 @@
 
 ###
 
-<h2 align="left">🔥   My Stats :</h2>
+<h2 align="left">🔥 Contribution Graph</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sai0x20charan&radius=16&theme=nord&area=true&order=5" height="200" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sai0x20charan&radius=16&theme=nord&area=true&order=5&hide_title=true&hide_border=true" height="200" alt="activity-graph graph"  />
 </div>
 
