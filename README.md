@@ -46,9 +46,9 @@
 
 ###
 
-<h2 align="left">About Me</h2>
+## About Me
 
-<p align="left"> I am a software developer passionate about Kotlin, Jetpack Compose and cross-platform development.</p>
+I'm a software developer passionate about Kotlin, Jetpack Compose, and cross-platform development.
 
 ## ⚡ Tech Stack
 
