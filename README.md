@@ -80,6 +80,6 @@ I'm a software developer passionate about Kotlin, Jetpack Compose, and cross-pla
 ###
 
 <div align="center">
-  <img src="[![Sai Charan's GitView](https://gitview-nine.vercel.app/api/graph?username=sai0x20charan)](https://github.com/sai0x20charan)" height="200" alt="activity-graph graph"  />
+  <img src="[![sai0x20charan's GitView](https://gitview-nine.vercel.app/api/graph?username=sai0x20charan)](https://github.com/sai0x20charan)" height="200" alt="activity-graph graph"  />
 </div>
 
