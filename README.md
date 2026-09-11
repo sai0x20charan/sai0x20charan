@@ -80,8 +80,8 @@ I'm a software developer passionate about Kotlin, Jetpack Compose, and cross-pla
 ###
 
 <div align="center">
-  <a href="https://github.com/sai0x20charan">
-  <img src="https://gitview-nine.vercel.app/api/graph?username=sai0x20charan&type=graph&range=30d&title=Sai+Charan%27s+Contribution+Graph" alt="sai0x20charan's GitView" />
+<a href="https://github.com/sai0x20charan">
+  <img src="https://readmecards.vercel.app/api/graph?username=sai0x20charan&type=graph&range=30d&custom_levels=15212d%2C28445c%2C3b688e%2C4f8cbf%2C61afef&border_color=0b0d0f&grid_color=4c5661&hide_total=true&title=Sai+Charan%27s+Contribution+Graph" alt="sai0x20charan's Readme Cards" />
 </a>
 </div>
 
